@@ -7,7 +7,7 @@
   }
   
   function ninjaBabySelector() {
-    return $('#ninjaBaby');
+    return $('#baby-ninja');
   }
   
   function divSelector() {
