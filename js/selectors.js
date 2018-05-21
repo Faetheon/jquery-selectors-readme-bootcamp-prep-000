@@ -5,5 +5,5 @@
   function lastImageSelector() {
     let arr = [$('img')];
     let lastImage = arr.pop();
-    return return lastImage;
+    return lastImage;
   }
