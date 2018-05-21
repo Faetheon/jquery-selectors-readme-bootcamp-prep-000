@@ -1,4 +1,3 @@
-$(document).ready(function() {
   function paragraphSelector() {
    return $('p');
   }
@@ -6,4 +5,3 @@ $(document).ready(function() {
   function lastImageSelector() {
     return $('img').pop();
   }
-})
